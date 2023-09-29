@@ -8,7 +8,7 @@ All projects covered in Metacrafters Summer Programme.
 ## Overview
 
 - **Programme:** Summer Programme on "Blockchain Technology using Ethereum and Polygon"
-- **Duration:** July 2023 - August 2023 (2 months)
+- **Duration:** June 2023 - August 2023 (3 months)
 - **Location:** Remote
 
 ## Introduction
